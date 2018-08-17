@@ -1,0 +1,45 @@
+.List{
+padding:0px 0px 0px 0px;
+margin:0px 0px 0px 0px;
+list-style-type:None; 
+Display:Inline;
+Width:30 px;
+Background-Color:Orange;
+Float:Left;
+Text-Align:Center;
+}
+#Recent{
+background-color:orange;
+font-size:30px;
+color:blue;
+padding:0px 10px 0px 0px;
+margin:0px 0px 0px 0px;
+list-style-type:None; 
+Display:Inline;
+Width:30px;
+}
+#Article{
+background-color:orange;
+font-size:30px;
+color:blue;
+padding:0px 0px 0px 10px;
+margin:0px 0px 0px 0px;
+list-style-type:None; 
+Display:Inline;
+Width:30 px;	
+}
+#Roster{
+background-color:orange;
+font-size:30px;
+color:blue;
+list-style-type:None;
+Display:Inline;
+Width:30px;
+}
+#Title{
+font-size:50px;
+color:orange;
+}
+body{
+	background-color:black;
+}

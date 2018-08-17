@@ -1,0 +1,13 @@
+#Title{
+color:Blue;
+background-color:Red;
+}
+#Homepage{	
+	color:blue;
+	text-decoration: underline; 
+	font-size: 60px;
+}
+.image{
+	height:400px;
+	width: 600px;
+}

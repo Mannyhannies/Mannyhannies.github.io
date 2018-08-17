@@ -1,0 +1,15 @@
+#AdditionsSubtractionsTable{
+color: black
+font-size: 4
+font-weight:bold
+font-family:"Times New Roman"
+border: 2px solid black;
+padding: 10px 10px 10px 10px;
+background-color:orange;
+border:2 px solid black;
+}
+#Homepage{
+	color:blue;
+	text-decoration: underline; 
+	font-size: 60px;
+}
